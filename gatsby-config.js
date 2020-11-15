@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gate API Doc Generator`,
-    description: `Generate api docs with GatsbyJS and Markdown.`,
+    title: `Zarnie D`,
+    description: `Welcome to Zarnie's Personal Website`,
     author: `@gatsbyjs`,
   },
   plugins: [

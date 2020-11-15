@@ -56,6 +56,7 @@ const View = styled.div`
   overflow-y: auto;
   top: 0;
   width: 230px;
+  background-image: 'src/images/gatsby-astronaut.png';
 `
 const Title = styled.h1`
   color: white;

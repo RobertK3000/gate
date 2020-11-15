@@ -22,5 +22,5 @@ const View = styled.div`
   position: absolute;
   right: 0;
   top: 0;
-  width: 50%;
+  width: 20%;
 `

@@ -10,7 +10,7 @@ const Page = ({ content, location }) => {
     location.search.replace('?', '') || content.frontmatter.language_tabs[0]
   return (
     <View>
-      <CodeBox content={content} lang={lang} />
+      {/* <CodeBox content={content} lang={lang} /> */}
       <Content>{renderNodes(content.htmlAst.children, lang)}</Content>
     </View>
   )

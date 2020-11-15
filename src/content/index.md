@@ -1,5 +1,5 @@
 ---
-title: API Reference
+title: Zarnie Site
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - bash 
@@ -17,15 +17,53 @@ includes:
 search: true
 ---
 
-# Introduction
+# Working
 
-Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
+sfdgdjhkbdsaiksbh
 
-We have language bindings in Shell, Ruby, Python, and JavaScript! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
+<aside class="notice">
+Contact me at zarnie@gmail.com
+</aside>
+
+# Shopping
+> Keep Scrolling
+
+
+Hi Welcome to Zarnie's Website
+
+asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg 
+asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg 
+
+# Painting
+
+asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg 
+
+asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg 
+
+# Drawing
+
+asdfgfh  afssg gesggs g afsdg asdfgfh  afssg gesggs g afsdg 
+
+# Music
+
+asdfgfh  afssg gesggs g afsdg 
+rdhtfyhgthftg
+
+<aside class="success">
+Check out my soundcloud!!!!
+</aside>
+
+# Object
+asdfgfhtfhy
+
+# Books
+
+Magician
+Castle to castle
 
 This example API documentation page was created with [Gate](https://github.com/sarasate/gate). Feel free to edit it and use it as a base for your own API's documentation.
 
-# Authentication
+# Artwork
 
 > To authorize, use this code:
 
@@ -35,7 +73,7 @@ require 'kittn'
 api = Kittn::APIClient.authorize!('meowmeowmeow')
 ```
 
-```python
+```bash```
 import kittn
 
 api = kittn.authorize('meowmeowmeow')
@@ -65,7 +103,7 @@ Kittn expects for the API key to be included in all API requests to the server i
 You must replace <code>meowmeowmeow</code> with your personal API key.
 </aside>
 
-# Kittens
+# Fashion
 
 ## Get All Kittens
 
